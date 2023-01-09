@@ -8,6 +8,7 @@
 //5, "Hello" -> "HelloHelloHelloHelloHello"//
 
 
+//MY SOLUTION:
 
 
 function repeatStr (n, s) {
@@ -15,5 +16,9 @@ function repeatStr (n, s) {
   }
 
 
+
+//ANOTHER SOLUTION:
+
 let repeatStr = (n,s) => s.repeat(n)
+
 
