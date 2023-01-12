@@ -16,6 +16,11 @@ function removeChar(str) {
 const removeChar = str => str.slice(1,-1)
 
 
+// or
+
+
+let poohBear = tigger => tigger.slice(3, -2)
+  console.log(poohBear('we like honey'))
 
 
 
