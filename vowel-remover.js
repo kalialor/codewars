@@ -17,12 +17,14 @@ replace vowels with an empty '' */
 
 
 function shortcut(string){
-    return string.replace(/[aeiou]/g,'')
+    return string.replace(/[aeiou]/g,'');
   }
+    console.log(shortcut('Hello'));
 
 
 //Arrow Function
 
-let shortcut = (string) => string.replace(/[aeiou]/g,'')
+let shortcut = (string) => string.replace(/[aeiou]/g,'');
+  console.log(shortcut('Hello'));
 
 

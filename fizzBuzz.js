@@ -3,6 +3,7 @@ but if the number is divisible by 3 log "fizz" instead of that number, if the nu
 divisible by 5 log "buzz" instead of the number, and if the number is divisible by 3 and 5 
 log "fizzbuzz" instead of that number */
 
+
 function fizzBuzz(num) {
     for(let i = 1; i <= num; i++) {
         if(i % 3 === 0 && i % 5 === 0) {
@@ -16,7 +17,7 @@ function fizzBuzz(num) {
             }
     }
 }
-
+//fizzBuzz(type in whatever number you want it to run to)
 
 
 
