@@ -12,9 +12,9 @@ Examples (input --> output):
 
 
 function numberToString(num){
-    num.ToString()
+    num.toString()
 }
 console.log(numberToString(123))
 
 
-let numberToString = (num) => num.ToString()
+let numberToString = (num) => num.toString()
