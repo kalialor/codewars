@@ -12,8 +12,9 @@
 
 //MY SOLUTION:
 
-function isPalindrome(x) {
-    return x.toLowerCase() == x.toLowerCase().split('').reverse().join('');
+function isPalindrome(str) {
+    str = str.toLowerCase()
+    return str === str.split('').reverse().join('')
   }
 
 
