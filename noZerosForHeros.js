@@ -9,7 +9,7 @@ Get rid of them. Only the ending ones.
 960000 -> 96
 1050 -> 105
 -1050 -> -105
-Zero alone is fine, don't worry about it. Poor guy anyway */
+Zero alone is fine, don't worry about it. Poor guy anyways */
 
 //MY SOLUTION: 
 
